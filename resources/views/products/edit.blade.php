@@ -1,4 +1,3 @@
-{{-- resources/views/products/edit.blade.php --}}
 <!DOCTYPE html>
 <html lang="en">
 <head>
